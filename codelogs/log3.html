@@ -26,12 +26,12 @@
     <h1>How does a CSS media query work, and why is it useful?</h1>
     <p>According to an Article from CSS-Tricks.com, A CSS Media Querie is one way developers basically tell the browser how to show the media in the viewport. It can be used to apply styles or run other code based on the style. It is useful because not only does it target the viewport width, but it also can be used to target things like screen resolution, device orientation, operating system preferences, and more. One downfall of CSS Media Queries is that if they are overused, they can make your code too complex to maintain. In this specific article, it mentions there being 150 browsers, 50 combinations of user preferences, and more than 24k different Android devices alone. All of these numbers add up to a whopping 18 million possible ways for content to be displayed.This is why it is important to make sure your media is being displayed correctly, especially before a user sees it and thinks, “What the heck?”</p>
     <h1>What "media features" are supported by media queries — such as "orientation" or "max-width" — and what do they do?</h1>
-    <p>Answer
+    <p>Some Media features that are supported in CSS Media Queries include, but are not limited to:
         <ul>
-            <li>1</li>
-            <li>2</li>
-            <li>3</li>
-            <li>4</li>
+            <li>Max/Min Width - Minimum Width applies styles when the viewport is at least as wide as the specified value. It is most commonly used when the website is primarily mobile. Maximum Width applies styles when the viewport is equal to or narrower than the specified value. This is the exact oposite as minimum width, where the website is primarily on desktop.</li>
+            <li>Orientation (Portrait/Landscape) -used to apply styles based on whether the viewport is in portrait. This is when the height is greater than or equal to the width or landscape mode, when the width is greater than height.</li>
+            <li>Perfers-Color-Sceme - Used to detect if a user is on light or dark mode.</li>
+            <li>Resolution - Used to test the pixel density of the device the media is being shown on. </li>
         </ul>
     </p>
 
