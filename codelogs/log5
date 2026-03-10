@@ -22,22 +22,22 @@
 </head>
 <body>
 
-    <header>Code Log 5<header>
-        <h1>What are the differences between presenting an image using an HTML tag (like &lt;img&gt;) and presenting it as the background of an HTML element (using the CSS property background-image)?
+    <header>Code Log 5</header>
+        <h1>What are the differences between presenting an image using an HTML tag (like &lt;img&gt;) and presenting it as the background of an HTML element (using the CSS property background-image)?</h1>
             <p>Answer here</p>
-                <h1>Besides background-image, what other CSS properties affect the display of background images? Describe at least two more CSS properties.<h1>
+                <h1>Besides background-image, what other CSS properties affect the display of background images? Describe at least two more CSS properties.</h1>
                     <p>answer here</p>
-                        <h1>In one sentence, how would you define the differences between dimensions and resolution in a bitmap image?<h1>
+                        <h1>In one sentence, how would you define the differences between dimensions and resolution in a bitmap image?</h1>
                             <p>Answer here</p>
-                                <h1> What are the similarities and differences between these image file formats? Why are some better than others for specific uses?<h1>
+                                <h1> What are the similarities and differences between these image file formats? Why are some better than others for specific uses?</h1>
                                     <p>
                                         <ul>
-                                            <li>GIF<li>
-                                                <li>PNG<li>
-                                                    <li>JPG, JPEG<li>
-                                                        <li>WebP<li>
-                                                            <li>SVG<li>
-                                        <ul>
+                                            <li>GIF</li>
+                                                <li>PNG</li>
+                                                    <li>JPG, JPEG</li>
+                                                        <li>WebP</li>
+                                                            <li>SVG</li>
+                                        </ul>
                                     </p>
                                                     
 
