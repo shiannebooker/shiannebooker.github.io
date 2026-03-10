@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<!-- meta tags and title -->
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Images</title>
+
+	<!-- external and internal CSS -->
+	<link rel="stylesheet" href="styles.css" media="all">
+	<style>
+		/* in-file CSS here */
+	</style>
+
+	<!-- external and internal JavaScript -->
+	<script src="scripts.js" defer></script>
+	<script>
+		// in-page JavaScript here
+	</script>
+
+</head>
+<body>
+
+    <header>Code Log 5<header>
+        <h1>What are the differences between presenting an image using an HTML tag (like &lt;img&gt;) and presenting it as the background of an HTML element (using the CSS property background-image)?
+            <p>Answer here</p>
+                <h1>Besides background-image, what other CSS properties affect the display of background images? Describe at least two more CSS properties.<h1>
+                    <p>answer here</p>
+                        <h1>In one sentence, how would you define the differences between dimensions and resolution in a bitmap image?<h1>
+                            <p>Answer here</p>
+                                <h1> What are the similarities and differences between these image file formats? Why are some better than others for specific uses?<h1>
+                                    <p>
+                                        <ul>
+                                            <li>GIF<li>
+                                                <li>PNG<li>
+                                                    <li>JPG, JPEG<li>
+                                                        <li>WebP<li>
+                                                            <li>SVG<li>
+                                        <ul>
+                                    </p>
+                                                    
+
+ 
+
+</body>
+</html>
