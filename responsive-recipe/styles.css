@@ -1,20 +1,50 @@
 body{
 font-family: Georgia, 'Times New Roman', Times, serif;
-border:1px solid black;
+border: 1px solid black;
+padding: 20px;
+margin: 20px;
 }
 
 img{
-width: 25px;
+width: 300px;
+display: block;
+margin: 0 auto;
 }
 
 header{
-text-align:center;
+text-align: center;
+}
+
+section{
+margin-top: 30px;
+}
+
+h1{
+font-size: 50px;
+}
+
+li{
+margin-bottom: 10px;
 }
 
 /* desktop layout */
-
 @media (min-width: 800px){
 
 main{
-display:flex;
-gap
+display: flex;
+gap: 40px;
+}
+
+section{
+width: 50%;
+}
+
+ul{
+column-count: 2;
+}
+
+img{
+width: 400px;
+}
+
+}
