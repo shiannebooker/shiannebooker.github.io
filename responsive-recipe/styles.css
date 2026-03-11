@@ -1,0 +1,31 @@
+body{
+font-family: Arial;
+margin:20px;
+}
+
+img{
+width: 80%;
+}
+
+header{
+text-align:left;
+}
+
+section{
+margin-top:30px;
+}
+
+/* Desktop layout */
+
+@media (min-width: 800px){
+
+main{
+display:flex;
+gap:40px;
+}
+
+section{
+width:50%;
+}
+
+}
