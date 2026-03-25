@@ -150,3 +150,26 @@ nav>ul>li>ul>li:hover a {
     }
 
 }
+
+/* desktop layout */
+@media (min-width: 800px) {
+    article {
+        display: flex;
+        gap: 40px;
+    }
+
+    section {
+        width: 50%;
+    }
+
+    ul {
+        column-count: 2;
+    }
+
+    img {
+        width: 200px;
+    
+    }
+
+    
+}
