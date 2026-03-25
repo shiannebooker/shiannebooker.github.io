@@ -159,7 +159,7 @@ nav>ul>li>ul>li:hover a {
     }
 
     section {
-        width: 100%;
+        width: 50%;
     }
 
     ul {
@@ -167,7 +167,7 @@ nav>ul>li>ul>li:hover a {
     }
 
     img {
-        width: 500px;
+        width: 200px;
     
     }
 
