@@ -45,3 +45,29 @@
     }
 
 }
+
+/* ----- DARK MODE ----- */
+.darkMode {
+    background-color: #121212;
+    color: #f1f1f1;
+}
+
+.darkMode nav {
+    background-color: #1e1e1e;
+}
+
+.darkMode a {
+    color: #9ecbff;
+}
+
+.darkMode ul {
+    background-color: #1e1e1e;
+}
+
+.darkMode li {
+    color: #f1f1f1;
+}
+
+.darkMode img {
+    filter: brightness(0.8);
+}
