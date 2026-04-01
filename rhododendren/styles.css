@@ -1,6 +1,10 @@
 
 /* ----- MEDIA QUERY for landscape/desktop layout ----- */
 @media screen and (orientation: portrait) {
+    img {
+  max-width: 100%;
+  height: auto;
+}
 
     #navBurger {
         display: none;
