@@ -14,7 +14,7 @@
 }
 
 body {
-    margin: 0;
+    margin: 10px;
     padding: var(--nav-height) 0 0 0;
 }
 
@@ -155,3 +155,9 @@ table, th, td {
   border-collapse: collapse;
 }
 
+<style>
+div {
+  width: 30%;
+  display: inline-block;
+}
+</style>
