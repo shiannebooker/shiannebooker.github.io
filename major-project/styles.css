@@ -156,10 +156,8 @@ table, th, td {
 }
 
 <style>
-.mycontainer {
-  display: flex;
-}
-.mycontainer > div {
-  width:33%;
+.grid-container {
+  display: grid;
+  grid-template-columns: 50% 50%;
 }
 </style>
