@@ -155,9 +155,7 @@ table, th, td {
   border-collapse: collapse;
 }
 
-<style>
-.grid-container {
-  display: grid;
-  grid-template-columns: 50% 50%;
+div {
+  float: left;
+  padding: 15px;
 }
-</style>
