@@ -156,8 +156,10 @@ table, th, td {
 }
 
 <style>
-div {
-  width: 30%;
-  display: inline-block;
+.mycontainer {
+  display: flex;
+}
+.mycontainer > div {
+  width:33%;
 }
 </style>
