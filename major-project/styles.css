@@ -154,13 +154,4 @@ table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
 }
-<style>
-.mycontainer {
-  width:100%;
-  overflow:auto;
-}
-.mycontainer div {
-  width:33%;
-  float:left;
-}
-</style>
+
