@@ -1,11 +1,9 @@
-/* CSS for responsive menu demo */
-
 /* define variables */
 :root {
     --nav-height: 3rem;
-    --nav-bkgd-color: gray;
+    --nav-bkgd-color: rgb(224, 133, 186);
     --nav-text-color: white;
-    --nav-hover-bkgd-color: lightgray;
+    --nav-hover-bkgd-color: rgb(235, 173, 235);
     --nav-hover-text-color: black;
 }
 
@@ -145,7 +143,7 @@ nav>ul>li>ul>li:hover a {
     }
 
     nav>ul>li>a::after {
-        content: "";
+        content: ""
     }
 
 }
@@ -156,7 +154,7 @@ table, th, td {
 }
 
 div {
-  float: left;
+  float: right;
   padding: 15px;
 }
 
