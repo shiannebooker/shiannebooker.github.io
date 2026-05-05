@@ -1,9 +1,9 @@
 /* define variables */
 :root {
     --nav-height: 3rem;
-    --nav-bkgd-color: rgb(224, 133, 186);
+    --nav-bkgd-color: #f1c8cb;
     --nav-text-color: white;
-    --nav-hover-bkgd-color: rgb(235, 173, 235);
+    --nav-hover-bkgd-color: #f6b0bb;
     --nav-hover-text-color: black;
 }
 
@@ -14,7 +14,7 @@
 body {
     margin: 150px;
     padding: var(--nav-height) 5 5 5;
-    background-color: rgb(80, 72, 6);
+    background-color: #ece0da;
 }
 
 nav {
