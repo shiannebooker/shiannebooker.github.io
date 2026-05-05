@@ -154,7 +154,7 @@ table, th, td {
 }
 
 div {
-  float: right;
+  float: inline-start;
   padding: 15px;
 }
 
