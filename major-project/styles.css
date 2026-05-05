@@ -154,8 +154,7 @@ table, th, td {
   border-collapse: collapse;
 }
 
-div {
-  float: left;
-  padding: 50px;
+.container {
+  display: flex; 
+  gap: 20px;   
 }
-
