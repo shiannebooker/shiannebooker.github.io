@@ -13,7 +13,7 @@
 
 body {
     margin: 150px;
-    padding: var(--nav-height) 5 5 5;
+    padding: var(--nav-height) 0 0 0;
     background-color: #ece0da;
 }
 
