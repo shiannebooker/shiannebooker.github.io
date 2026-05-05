@@ -15,7 +15,7 @@ body {
     margin: 100px;
     padding: var(--nav-height) 0 0 0;
     background-color: #ece0da;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 nav {
