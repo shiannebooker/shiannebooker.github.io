@@ -155,7 +155,15 @@ table, th, td {
 }
 
 div {
-  float: inline-start;
+  float: none;
   padding: 15px;
+}
+
+body {
+  display: flex;
+  justify-content: center; 
+  align-items: center;    
+  min-height: 100vh;      
+  margin: 0;               
 }
 
