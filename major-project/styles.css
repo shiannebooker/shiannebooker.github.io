@@ -110,7 +110,7 @@ nav>ul>li>ul>li:hover a {
 @media screen and (orientation: landscape) {
 
     #navBurger {
-        display: inside;
+        display: inline-flexbox;
     }
 
     nav>ul {
@@ -160,10 +160,10 @@ div {
 }
 
 body {
-  display: flex;
-  justify-content: center; 
-  align-items: center;    
-  min-height: 100vh;      
-  margin: 0;               
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+  margin: 0;
 }
+
 
