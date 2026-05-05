@@ -12,13 +12,13 @@
 }
 
 body {
-    margin: 0px;
+    margin: 150px;
     padding: var(--nav-height) 0 0 0;
     background-color: #ece0da;
 }
 
 nav {
-    position: fixed;
+    position: absolute;
     top: 0;
     left: 0;
     width: 100%;
@@ -36,7 +36,7 @@ nav {
 }
 
 nav ul {
-    position: static;
+    position: relative;
     background-color: var(--nav-bkgd-color);
     list-style: none;
     margin: 0;
@@ -45,7 +45,7 @@ nav ul {
 
 nav>ul {
     max-height: 0;
-    overflow: scroll;
+    overflow: hidden;
     transition: max-height 0.5s;
 }
 
@@ -110,24 +110,22 @@ nav>ul>li>ul>li:hover a {
 @media screen and (orientation: landscape) {
 
     #navBurger {
-        display: inline-flex;
+        display:  none;
     }
 
     nav>ul {
-        max-height: none;   
-        display: flex;     
-        align-items: center;
+        overflow: visible;  
     }
 
     nav>ul>li {
-        display: flex;
-        align-items: center;
+        float: left;
+        margin: 0.5rem;
     }
 
     nav>ul>li a {
-    padding-right: 0.5rem;
-    margin: 0 1rem;
-}
+        padding-right: 0.5rem;
+        margin: 0;
+    }
 
     nav>ul>li>ul {
         margin: 0 0.5rem 0.5rem 0;
