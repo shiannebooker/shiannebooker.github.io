@@ -12,7 +12,7 @@
 }
 
 body {
-    margin: 100px;
+    margin: 150px;
     padding: var(--nav-height) 0 0 0;
 }
 
@@ -109,7 +109,7 @@ nav>ul>li>ul>li:hover a {
 @media screen and (orientation: landscape) {
 
     #navBurger {
-        display: none;
+        display: inside;
     }
 
     nav>ul {
