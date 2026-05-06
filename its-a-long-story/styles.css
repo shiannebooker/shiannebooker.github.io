@@ -34,12 +34,6 @@
     /* CSS goes here */
 }
 
-/* Empire State Building Vertical Scroll -- Basic */
-
-/* load fonts Limelight and Titillium Web from Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Limelight&family=Titillium+Web:wght@300&display=swap');
-
-
 * {
     box-sizing: border-box; /* set box-sizing to make dimensions primary */
 }
@@ -47,7 +41,6 @@
 html, body {
 	padding: 0;
 	margin: 0;
-	font-family: "Titillium Web", sans-serif;
 }
 
 /* eliminate default padding from content elements */
@@ -69,7 +62,7 @@ main {
 section {
     position: relative;
     height: 100vh;
-    border-bottom: dashed 1px #fff5; /* comment in to see faint division lines between sections */
+    border-bottom: dashed 1px #fff5;
 }
 
 /* content divs within the sections are positioned absolutely to the top and right, almost half the page wide */
