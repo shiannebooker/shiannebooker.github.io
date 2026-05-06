@@ -159,3 +159,8 @@ table, th, td {
   display: flex; 
   gap: 20px;   
 }
+
+img {
+  width: 300px;
+  height: auto;
+}
