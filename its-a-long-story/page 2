@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<!-- meta tags and title -->
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>It's a Long Story</title>
+
+	<!-- external and internal CSS -->
+	<link rel="stylesheet" href="styles.css" media="all">
+	<style>
+		/* in-file CSS here */
+	</style>
+
+	<!-- external and internal JavaScript -->
+	<script src="scripts.js" defer></script>
+	<script>
+		// in-page JavaScript here
+	</script>
+
+</head>
+<body>
+
+    <p>Anakin and Padme's secret relationship is starting to become stressful for Anakin as he starts to have dreams of her dying while she is giving birth... oh btw shes pregnant! with twins! (hello luke and leia.) SO basically he's like oh no I have to save my wife and he talks to Yoda and Yoda doesn't really do anything for him. So he then confides in Palpatine. (bad bad bad idea) Palpatine warns him that he has more training than what Jedi's have (THE DARK SIDE?) yea... the dark side. So Palpatine is like yeah the only way to save her is to become my appentice and learn the darkside's ways.</p>
+
+</body>
+</html>
+

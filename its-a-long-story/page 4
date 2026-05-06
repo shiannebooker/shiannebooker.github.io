@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<!-- meta tags and title -->
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>It's a Long Story</title>
+
+	<!-- external and internal CSS -->
+	<link rel="stylesheet" href="styles.css" media="all">
+	<style>
+		/* in-file CSS here */
+	</style>
+
+	<!-- external and internal JavaScript -->
+	<script src="scripts.js" defer></script>
+	<script>
+		// in-page JavaScript here
+	</script>
+
+</head>
+<body>
+
+    <p>Okay so now Anakin is going to be refered to as Darth Vader. Palpatine is like "ExEcUtE OrDeR 66" THIS IS BAD. this takes out a lot of the Jedi. and Obi-wan and Padme track down Darth Vader and Padme's like "You're breaking my heart... you're going down a path I can't follow" and he's like nah its chill. And he chokes her using the force because he is PISSED that she brought Obi-Wan. Obi-wan and Darth Vader duel and the most cinimatic masterpeice is created. Darth Vader is like "YOU TURNED HER AGAINST ME" and Obi-wan is like um you did that yourself. SO they duel and obi-wan is like "I will do what I must" and things are getting violent. Obiwan cuts off his limbs and Vader is like burning in the lava and Obi-wan is like "YOU WERE THE CHOSEN ONE, IT WAS SAID YOU WOULD DESTROY THE SITH NOT JOIN THEM" and all Vader has to say is "I HATE YOU". so yeah.</p>
+</body>
+</html>
+
