@@ -1,20 +1,61 @@
 
-@media (min-width: 576px) { 
-    
+
+* {
+    box-sizing: border-box;
 }
 
-@media (min-width: 768px) { 
-  
+html, body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 
-@media (min-width: 992px) { 
-   
+h1, h2, p {
+	padding: 0;
+	margin: 0;
+}
+
+main {
+    height: 500vh;
+    background-image: url("973c5964e400c35bbfbd4aab2853d29d.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+section {
+    position: relative;
+    height: 100vh;
+    border-bottom: dashed 1px #fff5;
+
+
+section > .content {
+    position: absolute;
+    width: 42vw;
+    top: 20vh;
+    right: 4vw;
+}
+
+section > .content > p {
+    font-size: 2rem;
+    padding: 1rem;
 }
 
 
-
-@media (min-width: 1200px) { 
-  
+#section1 p,
+#section1 h1 {
+    text-transform: uppercase;
 }
 
+#section1 h1 {
+    font-size: 7rem;
+    line-height: 6rem;
+    font-family: Limelight, serif;
+    margin-left: -0.4rem; 
+    padding-left: 1rem; 
+}
+
+/* change the color in the last section due to the background image */
+#section5 p {
+    background-color: #cfddebbb;
+}
