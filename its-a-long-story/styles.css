@@ -106,3 +106,7 @@ section > .instructions {
     margin-left: -0.4rem; /* due to the size and design of the font, bump it left a tiny bit for visual alignment */
     padding-left: 1rem; /* to align with paragraphs */
 }
+
+body {
+    color: white;
+}
