@@ -88,7 +88,7 @@ section > .instructions {
     text-decoration: none;
     text-transform: uppercase;
     font-size: 1rem;
-    color: #000;
+    color: #fdfcfc88;
     padding-left: 1rem; /* to align with paragraphs */
 }
 
@@ -105,9 +105,4 @@ section > .instructions {
     font-family: Limelight, serif;
     margin-left: -0.4rem; /* due to the size and design of the font, bump it left a tiny bit for visual alignment */
     padding-left: 1rem; /* to align with paragraphs */
-}
-
-/* change the color in the last section due to the background image */
-#section5 p {
-    background-color: #cfddebbb;
 }
